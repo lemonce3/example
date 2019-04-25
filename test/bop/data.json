@@ -1,0 +1,29 @@
+{
+	"userList": [
+		{
+			"username": "test1",
+			"password": "testpw"
+		},
+		{
+			"username": "test2",
+			"password": "testpw"
+		}
+	],
+	"taskList": [
+		{
+			"id": 1,
+			"title": "testTask1",
+			"detail": "procedure=1"
+		},
+		{
+			"id": 2,
+			"title": "testTask2",
+			"detail": "procedure=2"
+		},
+		{
+			"id": 3,
+			"title": "testTask3",
+			"detail": "procedure=3"
+		}
+	]
+}
